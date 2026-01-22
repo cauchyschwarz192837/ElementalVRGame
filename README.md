@@ -9,7 +9,7 @@ for spell casting functionality by capturing drawn hand motions and boss combat 
 
 See the images folder for sample shots.
 
-
+[![Watch the video](https://img.youtube.com/vi/RBm48_LaO4U/hqdefault.jpg)](https://www.youtube.com/embed/RBm48_LaO4U)
 
 https://github.com/user-attachments/assets/2bcf82fe-37e6-4439-9e6b-dee76230a826
 
