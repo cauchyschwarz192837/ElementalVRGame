@@ -9,10 +9,10 @@ for spell casting functionality by capturing drawn hand motions and boss combat 
 
 See the images folder for sample shots.
 
-![Alt text](./images/L1Layout.png)
+[![Watch the video](https://img.youtube.com/vi/3733GGJ9m2w/0.jpg)](https://youtu.be/3733GGJ9m2w)
 
-![Alt text](./images/L1P1.png)
+![L1P1](./images/L1P1.png)
 
-![Alt text](./images/L1P2.png)
+![L2P2](./images/L1P2.png)
 
-![Alt text](./images/L1P3.png)
+![L1P3](./images/L1P3.png)
