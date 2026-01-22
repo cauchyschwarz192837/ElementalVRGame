@@ -7,7 +7,7 @@ for spell casting functionality by capturing drawn hand motions and boss combat 
 
 ## Sample shots
 
-See the images folder for sample shots.
+Click image below to watch short video test demo
 
 [![Watch the video](https://img.youtube.com/vi/RBm48_LaO4U/hqdefault.jpg)](https://www.youtube.com/embed/RBm48_LaO4U)
 
